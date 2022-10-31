@@ -25,7 +25,7 @@ dependencies:
     git:
       url: https://github.com/KawindaWAD/flutter_stripe.git
       ref: main
-      path: packages/stripe_android/android
+      path: packages/stripe_android
   stripe_ios: ^6.0.0
   stripe_platform_interface: ^6.0.0
 dev_dependencies:
